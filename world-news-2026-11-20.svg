@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" font-family="Georgia, 'Times New Roman', serif">
+<defs><linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1a2b5e"/><stop offset="1" stop-color="#0d1321"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="#0d1321"/>
+<rect width="1600" height="140" fill="url(#hdr)"/>
+<rect y="140" width="1600" height="4" fill="#f0b429"/>
+<text x="60" y="62" fill="#f0b429" font-size="22" letter-spacing="6">WORLD BRIEFING</text>
+<text x="60" y="112" fill="#e8ecf7" font-size="44" font-weight="bold">The World in One Frame — 20 November 2026</text>
+<text x="1540" y="68" fill="#9aa7c7" font-size="18" text-anchor="end">A daily digest · 9 stories · sources: Reuters, AP, CS Monitor, Euronews</text>
+<rect x="60" y="182" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="60" y="182" width="7" height="140" rx="3" fill="#5b8cff"/>
+<text x="90" y="218" fill="#5b8cff" font-size="16" letter-spacing="3">DIPLOMACY</text>
+<text x="90" y="250" fill="#e8ecf7" font-size="25" font-weight="bold">TRILATERAL SUMMIT IN SHENZHEN</text>
+<text x="90" y="276" fill="#9aa7c7" font-size="16">Trump, Xi and Putin held the first-ever US-China-Russia three-way summit on</text>
+<text x="90" y="295" fill="#9aa7c7" font-size="16">the sidelines of APEC, issuing a joint “peace declaration”: nuclear-risk</text>
+<text x="90" y="314" fill="#9aa7c7" font-size="16">dialogue, UN reform and pledges to expand fuel supplies.</text>
+<rect x="802" y="182" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="802" y="182" width="7" height="140" rx="3" fill="#e4572e"/>
+<text x="832" y="218" fill="#e4572e" font-size="16" letter-spacing="3">JUSTICE</text>
+<text x="832" y="250" fill="#e8ecf7" font-size="25" font-weight="bold">ICJ: MYANMAR COMMITTED GENOCIDE</text>
+<text x="832" y="276" fill="#9aa7c7" font-size="16">The International Court of Justice found Myanmar responsible for genocide</text>
+<text x="832" y="295" fill="#9aa7c7" font-size="16">against the Rohingya — the first such ruling against a state in the court's</text>
+<text x="832" y="314" fill="#9aa7c7" font-size="16">history.</text>
+<rect x="60" y="334" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="60" y="334" width="7" height="140" rx="3" fill="#2ec4b6"/>
+<text x="90" y="370" fill="#2ec4b6" font-size="16" letter-spacing="3">ECONOMY</text>
+<text x="90" y="402" fill="#e8ecf7" font-size="25" font-weight="bold">ANTHROPIC IPO — LARGEST EVER</text>
+<text x="90" y="428" fill="#9aa7c7" font-size="16">Anthropic's debut valued it at $1.5T, topping SpaceX's record; shares spiked</text>
+<text x="90" y="447" fill="#9aa7c7" font-size="16">above $111, then an AI-bubble sell-off dragged markets — Japan's Nikkei fell</text>
+<text x="90" y="466" fill="#9aa7c7" font-size="16">4.8%.</text>
+<rect x="802" y="334" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="802" y="334" width="7" height="140" rx="3" fill="#5b8cff"/>
+<text x="832" y="370" fill="#5b8cff" font-size="16" letter-spacing="3">DIPLOMACY</text>
+<text x="832" y="402" fill="#e8ecf7" font-size="25" font-weight="bold">UK–EU RESET SUMMIT IN BRUSSELS</text>
+<text x="832" y="428" fill="#9aa7c7" font-size="16">A decade after Brexit, PM Andy Burnham met Costa and von der Leyen; deals on</text>
+<text x="832" y="447" fill="#9aa7c7" font-size="16">trade, food standards and youth mobility aim to rebuild ties.</text>
+<rect x="60" y="486" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="60" y="486" width="7" height="140" rx="3" fill="#ff6b6b"/>
+<text x="90" y="522" fill="#ff6b6b" font-size="16" letter-spacing="3">CONFLICT</text>
+<text x="90" y="554" fill="#e8ecf7" font-size="25" font-weight="bold">HOUTHI MISSILE HITS RIYADH TOWER</text>
+<text x="90" y="580" fill="#9aa7c7" font-size="16">A missile struck a skyscraper in Riyadh's financial district; Saudi Arabia</text>
+<text x="90" y="599" fill="#9aa7c7" font-size="16">intercepted more drones and carried out air strikes across Houthi-held Yemen.</text>
+<rect x="802" y="486" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="802" y="486" width="7" height="140" rx="3" fill="#ff6b6b"/>
+<text x="832" y="522" fill="#ff6b6b" font-size="16" letter-spacing="3">CONFLICT</text>
+<text x="832" y="554" fill="#e8ecf7" font-size="25" font-weight="bold">11-NATION DRILL IN POLAND</text>
+<text x="832" y="580" fill="#9aa7c7" font-size="16">Led by France and the UK, the 'Coalition of the Willing' trained in southeast</text>
+<text x="832" y="599" fill="#9aa7c7" font-size="16">Poland for a potential postwar Ukraine mission — anti-drone and trench</text>
+<text x="832" y="618" fill="#9aa7c7" font-size="16">warfare.</text>
+<rect x="60" y="638" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="60" y="638" width="7" height="140" rx="3" fill="#c77dff"/>
+<text x="90" y="674" fill="#c77dff" font-size="16" letter-spacing="3">SOCIETY</text>
+<text x="90" y="706" fill="#e8ecf7" font-size="25" font-weight="bold">ITALY GENERAL STRIKE</text>
+<text x="90" y="732" fill="#9aa7c7" font-size="16">Tens of thousands joined the CGIL's nationwide strike over wages and public</text>
+<text x="90" y="751" fill="#9aa7c7" font-size="16">services; Amnesty later flagged police excesses during protests.</text>
+<rect x="802" y="638" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="802" y="638" width="7" height="140" rx="3" fill="#7bc96f"/>
+<text x="832" y="674" fill="#7bc96f" font-size="16" letter-spacing="3">CLIMATE</text>
+<text x="832" y="706" fill="#e8ecf7" font-size="25" font-weight="bold">COP31 TALKS STALL</text>
+<text x="832" y="732" fill="#9aa7c7" font-size="16">Climate diplomacy stalled in Turkey as the draft agreement left fossil fuels</text>
+<text x="832" y="751" fill="#9aa7c7" font-size="16">unmentioned, drawing outrage from activists and delegations.</text>
+<rect x="60" y="790" width="730" height="140" rx="10" fill="#16213a"/>
+<rect x="60" y="790" width="7" height="140" rx="3" fill="#c77dff"/>
+<text x="90" y="826" fill="#c77dff" font-size="16" letter-spacing="3">SOCIETY</text>
+<text x="90" y="858" fill="#e8ecf7" font-size="25" font-weight="bold">GOOD NEWS, TWO KINDS</text>
+<text x="90" y="884" fill="#9aa7c7" font-size="16">Kenya discharged its last Ebola patient 37 days after the first case — and</text>
+<text x="90" y="903" fill="#9aa7c7" font-size="16">Denmark approved a security deal keeping Greenland Danish while the US expands</text>
+<text x="90" y="922" fill="#9aa7c7" font-size="16">its Arctic presence.</text>
+<text x="60" y="970" fill="#f0b429" font-size="20" letter-spacing="2">MOOD OF THE DAY: UNEASY — DIPLOMACY OPENS DOORS, MARKETS HOLD THEIR BREATH</text>
+<text x="1540" y="994" fill="#9aa7c7" font-size="16" text-anchor="end">Compiled 2026-11-20 · make.fun bounty news-image-20261120</text>
+</svg>
